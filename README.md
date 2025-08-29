@@ -7,4 +7,4 @@ Web Site
 Nelere ihtiyacınız var = bilgi
 Yapılacaklar listesi = CSS dosyasını hazırla, yazıları yaz, fotoğraf ekle, güzel tanıtım yap.
 Hangi kaynakları kullanacaksınız = Makaleler ve AI
-Son olarak : Sona QUIZ ekle
+Son olarak : Sona QUIZ eklell
